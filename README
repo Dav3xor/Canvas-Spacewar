@@ -1,0 +1,7 @@
+This is an implementation of Spacewar, (arguably) the first video 
+game, originally written in 1958.
+
+This implementation is designed to be played in a modern browser,
+and is written in Javascript + Canvas.  The code, except for css
+is all in one file. It's pretty easy to understand, and might
+work as a starter for your own javascript/canvas game.
